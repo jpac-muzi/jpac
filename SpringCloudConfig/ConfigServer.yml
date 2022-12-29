@@ -1,2 +1,4 @@
-server:
-  port: 9090
+com:
+  muzi:
+    configserver:
+      config: I am a config for ConfigServer
