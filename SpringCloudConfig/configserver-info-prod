@@ -1,4 +1,0 @@
-com:
-  muzi:
-    configserver:
-      config: I am a config for configserver of prod...
